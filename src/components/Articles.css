@@ -1,0 +1,104 @@
+body {
+  background: whitesmoke;
+  min-block-size: 100%;
+  min-inline-size: 100%;
+  box-sizing: border-box;
+  display: grid;
+  place-content: center;
+  font-family: system-ui;
+  font-size: min(200%, 5vmin);
+}
+
+h1,
+p,
+body {
+  margin: 0;
+}
+
+p {
+  font-family: "Dank Mono", ui-monospace, monospace;
+}
+
+html {
+  block-size: 100%;
+  inline-size: 100%;
+}
+
+.blog__container {
+  padding-top: 6rem;
+}
+
+.title {
+  padding-bottom: 6rem;
+  text-align: center;
+}
+
+.title--section {
+  text-align: center;
+  font-weight: 800;
+}
+
+.card {
+  max-width: 100%;
+  margin-top: 6rem;
+}
+
+.card__actions {
+  display: flex;
+  margin: 0 1rem;
+  justify-content: space-between;
+}
+
+.author {
+  display: flex;
+  flex-direction: row;
+}
+
+.author__text {
+  margin-left: 1rem;
+}
+
+.media {
+  height: 24rem;
+}
+
+.appBar {
+  background-color: whitesmoke;
+}
+
+a {
+  text-decoration: none;
+}
+
+.content {
+  margin-inline: 1rem;
+}
+
+.content > p {
+  line-height: 2rem;
+}
+
+.card__single {
+  margin-top: 6rem;
+}
+
+.content__single > p {
+  line-height: 220rem;
+}
+
+@media screen and (min-width: 1025px) {
+  .content__single {
+    margin-inline: 40rem;
+    margin-bottom: 12rem;
+  }
+
+  .card__single {
+    max-width: 100%;
+
+    margin-top: 6rem;
+  }
+
+  .media__single {
+    height: 40rem;
+  }
+}
