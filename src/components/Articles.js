@@ -26,7 +26,7 @@ function Articles() {
         </Typography>
         <Grid container spacing={3}>
           <Grid item xs={12} sm={6} md={4}>
-            <a href="./articles/loops">
+            <a href="https://upbeat-wiles-ffe15a.netlify.app//articles/loops">
               <Card className="card">
                 <CardActionArea>
                   <CardMedia
