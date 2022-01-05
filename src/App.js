@@ -23,7 +23,11 @@ function App() {
       <Router>
         <Routes>
           <Route exact path="/" element={<Home />} />
-          <Route exact path="/articles/loops" element={<Loops />} />
+          <Route
+            exact
+            path="https://upbeat-wiles-ffe15a.netlify.app//articles/loops"
+            element={<Loops />}
+          />
           <Route exact path="/articles/variables" element={<Variables />} />
           <Route exact path="/articles/algorithims" element={<Algorithims />} />
           <Route exact path="/articles/functions" element={<Functions />} />
