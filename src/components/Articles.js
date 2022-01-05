@@ -13,6 +13,8 @@ import {
   Avatar,
 } from "@material-ui/core";
 
+import { Link } from "react-router-dom";
+
 function Articles() {
   return (
     <div>
@@ -26,7 +28,7 @@ function Articles() {
         </Typography>
         <Grid container spacing={3}>
           <Grid item xs={12} sm={6} md={4}>
-            <a href="https://upbeat-wiles-ffe15a.netlify.app/articles/loops">
+            <Link to="./articles/loops">
               <Card className="card">
                 <CardActionArea>
                   <CardMedia
@@ -77,7 +79,7 @@ function Articles() {
                   </Box>
                 </CardActions>
               </Card>
-            </a>
+            </Link>
           </Grid>
           <Grid item xs={12} sm={6} md={4}>
             <a href="./articles/variables">
