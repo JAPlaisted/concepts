@@ -3,7 +3,7 @@ import "./App.css";
 import "./articles/loops";
 import "./components/Articles";
 import Home from "./Pages/Home";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Loops from "./articles/loops";
 import Algorithims from "./articles/algorithims";
 import Variables from "./articles/variables";
@@ -20,14 +20,10 @@ import Booleans from "./articles/booleans";
 function App() {
   return (
     <div className="App">
-      <Router>
+      <BrowserRouter>
         <Routes>
           <Route exact path="/" element={<Home />} />
-          <Route
-            exact
-            path="https://upbeat-wiles-ffe15a.netlify.app//articles/loops"
-            element={<Loops />}
-          />
+          <Route exact path="/articles/loops" element={<Loops />} />
           <Route exact path="/articles/variables" element={<Variables />} />
           <Route exact path="/articles/algorithims" element={<Algorithims />} />
           <Route exact path="/articles/functions" element={<Functions />} />
@@ -40,7 +36,7 @@ function App() {
           <Route exact path="/articles/typography" element={<Typography />} />
           <Route exact path="/articles/booleans" element={<Booleans />} />
         </Routes>
-      </Router>
+      </BrowserRouter>
     </div>
   );
 }
