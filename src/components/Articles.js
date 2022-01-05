@@ -82,7 +82,7 @@ function Articles() {
             </Link>
           </Grid>
           <Grid item xs={12} sm={6} md={4}>
-            <a href="./articles/variables">
+            <Link href="./articles/variables">
               <Card className="card">
                 <CardActionArea>
                   <CardMedia
@@ -133,10 +133,10 @@ function Articles() {
                   </Box>
                 </CardActions>
               </Card>
-            </a>
+            </Link>
           </Grid>
           <Grid item xs={12} sm={6} md={4}>
-            <a href="./articles/algorithims">
+            <Link href="./articles/algorithims">
               <Card className="card">
                 <CardActionArea>
                   <CardMedia
@@ -188,10 +188,10 @@ function Articles() {
                   </Box>
                 </CardActions>
               </Card>
-            </a>
+            </Link>
           </Grid>
           <Grid item xs={12} sm={6} md={4}>
-            <a href="./articles/functions">
+            <Link href="./articles/functions">
               <Card className="card">
                 <CardActionArea>
                   <CardMedia
@@ -242,10 +242,10 @@ function Articles() {
                   </Box>
                 </CardActions>
               </Card>
-            </a>
+            </Link>
           </Grid>
           <Grid item xs={12} sm={6} md={4}>
-            <a href="./articles/queries">
+            <Link href="./articles/queries">
               <Card className="card">
                 <CardActionArea>
                   <CardMedia
@@ -296,10 +296,10 @@ function Articles() {
                   </Box>
                 </CardActions>
               </Card>
-            </a>
+            </Link>
           </Grid>
           <Grid item xs={12} sm={6} md={4}>
-            <a href="./articles/expressions">
+            <Link href="./articles/expressions">
               <Card className="card">
                 <CardActionArea>
                   <CardMedia
@@ -350,10 +350,10 @@ function Articles() {
                   </Box>
                 </CardActions>
               </Card>
-            </a>
+            </Link>
           </Grid>
           <Grid item xs={12} sm={6} md={4}>
-            <a href="./articles/syntax">
+            <Link href="./articles/syntax">
               <Card className="card">
                 <CardActionArea>
                   <CardMedia
@@ -404,10 +404,10 @@ function Articles() {
                   </Box>
                 </CardActions>
               </Card>
-            </a>
+            </Link>
           </Grid>
           <Grid item xs={12} sm={6} md={4}>
-            <a href="./articles/pseudocode">
+            <Link href="./articles/pseudocode">
               <Card className="card">
                 <CardActionArea>
                   <CardMedia
@@ -458,10 +458,10 @@ function Articles() {
                   </Box>
                 </CardActions>
               </Card>
-            </a>
+            </Link>
           </Grid>
           <Grid item xs={12} sm={6} md={4}>
-            <a href="./articles/languages">
+            <Link href="./articles/languages">
               <Card className="card">
                 <CardActionArea>
                   <CardMedia
@@ -512,10 +512,10 @@ function Articles() {
                   </Box>
                 </CardActions>
               </Card>
-            </a>
+            </Link>
           </Grid>
           <Grid item xs={12} sm={6} md={4}>
-            <a href="./articles/ides">
+            <Link href="./articles/ides">
               <Card className="card">
                 <CardActionArea>
                   <CardMedia
@@ -567,10 +567,10 @@ function Articles() {
                   </Box>
                 </CardActions>
               </Card>
-            </a>
+            </Link>
           </Grid>
           <Grid item xs={12} sm={6} md={4}>
-            <a href="./articles/typography">
+            <Link href="./articles/typography">
               <Card className="card">
                 <CardActionArea>
                   <CardMedia
@@ -621,10 +621,10 @@ function Articles() {
                   </Box>
                 </CardActions>
               </Card>
-            </a>
+            </Link>
           </Grid>
           <Grid item xs={12} sm={6} md={4}>
-            <a href="./articles/booleans">
+            <Link href="./articles/booleans">
               <Card className="card">
                 <CardActionArea>
                   <CardMedia
@@ -675,7 +675,7 @@ function Articles() {
                   </Box>
                 </CardActions>
               </Card>
-            </a>
+            </Link>
           </Grid>
         </Grid>
       </Container>
