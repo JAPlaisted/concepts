@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import {
   AppBar,
   Toolbar,
@@ -13,7 +13,10 @@ import {
 } from "@material-ui/core";
 import { Link } from "react-router-dom";
 
-function Loops() {
+function Queries() {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   return (
     <div>
       <AppBar className="appBar" color="transparent">
@@ -137,4 +140,4 @@ function Loops() {
   );
 }
 
-export default Loops;
+export default Queries;

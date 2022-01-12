@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import {
   AppBar,
   Toolbar,
@@ -14,6 +14,9 @@ import {
 import { Link } from "react-router-dom";
 
 function Loops() {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   return (
     <div>
       <AppBar className="appBar" color="transparent">
