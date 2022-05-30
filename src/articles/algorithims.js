@@ -7,7 +7,6 @@ import {
   CardContent,
   Card,
   CardActions,
-  Avatar,
 } from "@material-ui/core";
 import Nav from "../components/Nav";
 
@@ -18,6 +17,7 @@ function Algorithims() {
   return (
     <div>
       <Nav />
+
       <Card className="card__single">
         <CardActionArea>
           <CardMedia
@@ -100,27 +100,8 @@ function Algorithims() {
             </Typography>
           </CardContent>
         </CardActionArea>
-        <CardActions className="card__actions">
-          <Box className="author">
-            <Avatar src="https://randomuser.me/api/portraits/women/17.jpg" />
-            <Box className="author__text">
-              <Typography
-                className="body__text"
-                variant="subtitle2"
-                color="secondary"
-              >
-                <p>Susan White.</p>
-              </Typography>
-              <Typography
-                className="body__text"
-                variant="subtitle2"
-                color="secondary"
-              >
-                May 7, 2021
-              </Typography>
-            </Box>
-          </Box>
-        </CardActions>
+
+        <Susan />
       </Card>
     </div>
   );
