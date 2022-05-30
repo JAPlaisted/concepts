@@ -14,8 +14,8 @@ function Hero() {
       </AppBar>
       <Box className="hero">
         <Box className="title--hero">
-          <h1>Programming Concepts</h1>
-          <h4>Learn | Practice | Apply</h4>
+          <h1>Tiny Smart Blogs</h1>
+          <h4>Just the info you're looking for.</h4>
         </Box>
       </Box>
     </div>

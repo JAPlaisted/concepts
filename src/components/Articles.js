@@ -250,7 +250,7 @@ function Articles() {
                       variant="h3"
                       color="primary"
                     >
-                      My 5 Favorite Robots
+                      My Top 5 Favorite Robots
                     </Typography>
                     <Typography
                       className="body__text"
