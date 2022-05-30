@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import Articles from "../components/Articles";
 import Hero from "../components/Hero";
 
