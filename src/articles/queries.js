@@ -1,7 +1,5 @@
 import React, { useEffect } from "react";
 import {
-  AppBar,
-  Toolbar,
   Typography,
   Box,
   CardActionArea,
@@ -11,7 +9,7 @@ import {
   CardActions,
   Avatar,
 } from "@material-ui/core";
-import { Link } from "react-router-dom";
+import Nav from "../components/Nav";
 
 function Queries() {
   useEffect(() => {
@@ -19,13 +17,7 @@ function Queries() {
   }, []);
   return (
     <div>
-      <AppBar className="appBar" color="transparent">
-        <Toolbar>
-          <Link to="/" rel="stylesheet" href="">
-            <Typography color="primary">CONCEPTS</Typography>
-          </Link>
-        </Toolbar>
-      </AppBar>
+      <Nav />
       <Card className="card__single">
         <CardActionArea>
           <CardMedia
