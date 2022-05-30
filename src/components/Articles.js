@@ -43,17 +43,14 @@ function Articles() {
                       variant="h3"
                       color="primary"
                     >
-                      Loops
+                      10 Random Business Ideas
                     </Typography>
                     <Typography
                       className="body__text"
                       variant="body1"
                       color="secondary"
                     >
-                      Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                      Accusantium dolorem fugiat architecto officiis sapiente.
-                      Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                      Sequi veritatis rerum maiores alias incidunt.
+                      10 random business ideas to inspire fellow entrepreneurs.
                     </Typography>
                   </CardContent>
                 </CardActionArea>
@@ -97,17 +94,15 @@ function Articles() {
                       variant="h3"
                       color="primary"
                     >
-                      Variables
+                      Elon Musk’s 5 Important Areas
                     </Typography>
                     <Typography
                       className="body__text"
                       variant="body1"
                       color="secondary"
                     >
-                      Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                      Accusantium dolorem fugiat architecto officiis sapiente.
-                      Lorem ipsum dolor, adipisicing elit. Sequi veritatis rerum
-                      maiores alias incidunt.
+                      Musk has listed these five areas as most important to the
+                      future of humanity.
                     </Typography>
                   </CardContent>
                 </CardActionArea>
@@ -151,18 +146,15 @@ function Articles() {
                       variant="h3"
                       color="primary"
                     >
-                      Algorithims
+                      5 Best Books to Learn Code
                     </Typography>
                     <Typography
                       className="body__text"
                       variant="body1"
                       color="secondary"
                     >
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                      Libero facilis aut beatae omnis, totam sit excepturi!
-                      Quis, eius! Lorem ipsum dolor, sit amet consectetur
-                      adipisicing elit. Sequi veritatis rerum maiores alias
-                      incidunt.
+                      The top five books that have personally helped me in my
+                      journey as a software developer.
                     </Typography>
                   </CardContent>
                 </CardActionArea>
@@ -206,17 +198,15 @@ function Articles() {
                       variant="h3"
                       color="primary"
                     >
-                      Functions
+                      Dividing by Zero
                     </Typography>
                     <Typography
                       className="body__text"
                       variant="body1"
                       color="secondary"
                     >
-                      Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                      Optio sed vero totam quasi? Lorem ipsum dolor, sit amet
-                      consectetur adipisicing elit. Sequi veritatis rerum
-                      maiores alias incidunt.
+                      The most accurate definition of division of a number by
+                      zero.
                     </Typography>
                   </CardContent>
                 </CardActionArea>
@@ -260,17 +250,14 @@ function Articles() {
                       variant="h3"
                       color="primary"
                     >
-                      Queries
+                      My 5 Favorite Robots
                     </Typography>
                     <Typography
                       className="body__text"
                       variant="body1"
                       color="secondary"
                     >
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Iste laudantium vitae facere, iure voluptatibus ex
-                      cupiditate. Quasi! Lorem ipsum dolor, sit amet consectetur
-                      maiores alias incidunt.
+                      The five best robots in the multiverse according to me.
                     </Typography>
                   </CardContent>
                 </CardActionArea>
@@ -314,17 +301,14 @@ function Articles() {
                       variant="h3"
                       color="primary"
                     >
-                      Expressions
+                      7 Developer Portfolios for Inspiration
                     </Typography>
                     <Typography
                       className="body__text"
                       variant="body1"
                       color="secondary"
                     >
-                      Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                      Labore dolore quo voluptatum dolor a soluta nostrum. Lorem
-                      ipsum dolor, sit adipisicing elit. Sequi veritatis rerum
-                      maiores alias incidunt.
+                      These seven portfolios are perfect for inspiring your own.
                     </Typography>
                   </CardContent>
                 </CardActionArea>
@@ -368,17 +352,14 @@ function Articles() {
                       variant="h3"
                       color="primary"
                     >
-                      Syntax
+                      5 Great Elon Musk Interviews
                     </Typography>
                     <Typography
                       className="body__text"
                       variant="body1"
                       color="secondary"
                     >
-                      Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                      Quisquam iste impedit consequuntur voluptate pariatur.
-                      Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                      Sequi veritatis rerum maiores alias incidunt.
+                      Watch these interviews for insight on all things Elon.
                     </Typography>
                   </CardContent>
                 </CardActionArea>
@@ -422,17 +403,14 @@ function Articles() {
                       variant="h3"
                       color="primary"
                     >
-                      Pseudo Code
+                      An Argument for Science
                     </Typography>
                     <Typography
                       className="body__text"
                       variant="body1"
                       color="secondary"
                     >
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Deserunt nemo error sequi tempora, voluptate blanditiis!
-                      Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                      Sequi veritatis rerum maiores alias incidunt.
+                      Warning: controversial content.
                     </Typography>
                   </CardContent>
                 </CardActionArea>
@@ -476,17 +454,15 @@ function Articles() {
                       variant="h3"
                       color="primary"
                     >
-                      Languages
+                      6 Interesting Companies to Follow
                     </Typography>
                     <Typography
                       className="body__text"
                       variant="body1"
                       color="secondary"
                     >
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Illum quae saepe nobis iste! Lorem ipsum dolor, sit amet
-                      consectetur adipisicing elit. Sequi veritatis rerum
-                      maiores alias incidunt.
+                      These six amazing companies are changing the way I think
+                      about business.
                     </Typography>
                   </CardContent>
                 </CardActionArea>
@@ -530,18 +506,15 @@ function Articles() {
                       variant="h3"
                       color="primary"
                     >
-                      IDE's
+                      5 Things I Use Everyday
                     </Typography>
                     <Typography
                       className="body__text"
                       variant="body1"
                       color="secondary"
                     >
-                      Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                      Ipsum magni distinctio nostrum accusantium id illo autem
-                      minima placeat. Lorem ipsum dolor, sit amet consectetur
-                      adipisicing elit. Sequi veritatis rerum maiores alias
-                      incidunt.
+                      Workdays, off days, vacation days, sick days, I need this
+                      stuff.
                     </Typography>
                   </CardContent>
                 </CardActionArea>
@@ -585,17 +558,15 @@ function Articles() {
                       variant="h3"
                       color="primary"
                     >
-                      Typography
+                      My Top 8 Business Books
                     </Typography>
                     <Typography
                       className="body__text"
                       variant="body1"
                       color="secondary"
                     >
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Deleniti, assumenda inventore. Lorem ipsum dolor, sit amet
-                      consectetur adipisicing elit. Sequi veritatis rerum
-                      maiores alias incidunt.
+                      These 8 books are the foundation of my knowledge in
+                      business.
                     </Typography>
                   </CardContent>
                 </CardActionArea>
@@ -639,17 +610,14 @@ function Articles() {
                       variant="h3"
                       color="primary"
                     >
-                      Booleans
+                      My Favorite Resources to Learn Code
                     </Typography>
                     <Typography
                       className="body__text"
                       variant="body1"
                       color="secondary"
                     >
-                      Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                      Sequi veritatis rerum maiores alias incidunt. Lorem ipsum
-                      dolor, sit amet consectetur adipisicing elit. Sequi
-                      veritatis rerum maiores alias incidunt.
+                      Learn Code and Learn It WELL
                     </Typography>
                   </CardContent>
                 </CardActionArea>
