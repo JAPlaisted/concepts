@@ -21,19 +21,19 @@ function App() {
     <div className="App">
       <BrowserRouter forceRefresh={true}>
         <Routes>
-          <Route path="/" component={<Home />} />
-          <Route path="/articles/randbus10" component={<RandBus10 />} />
-          <Route path="/articles/variables" component={<Variables />} />
-          <Route path="/articles/algorithims" component={<Algorithims />} />
-          <Route path="/articles/functions" component={<Functions />} />
-          <Route path="/articles/queries" component={<Queries />} />
-          <Route path="/articles/Expressions" component={<Expressions />} />
-          <Route path="/articles/syntax" component={<Syntax />} />
-          <Route path="/articles/pseudoCode" component={<PseudoCode />} />
-          <Route path="/articles/languages" component={<Languages />} />
-          <Route path="/articles/iDES" component={<IDES />} />
-          <Route path="/articles/typography" component={<Typography />} />
-          <Route path="/articles/booleans" component={<Booleans />} />
+          <Route path="/" element={<Home />} />
+          <Route path="/articles/randbus10" element={<RandBus10 />} />
+          <Route path="/articles/variables" element={<Variables />} />
+          <Route path="/articles/algorithims" element={<Algorithims />} />
+          <Route path="/articles/functions" element={<Functions />} />
+          <Route path="/articles/queries" element={<Queries />} />
+          <Route path="/articles/Expressions" element={<Expressions />} />
+          <Route path="/articles/syntax" element={<Syntax />} />
+          <Route path="/articles/pseudoCode" element={<PseudoCode />} />
+          <Route path="/articles/languages" element={<Languages />} />
+          <Route path="/articles/iDES" element={<IDES />} />
+          <Route path="/articles/typography" element={<Typography />} />
+          <Route path="/articles/booleans" element={<Booleans />} />
         </Routes>
       </BrowserRouter>
     </div>
