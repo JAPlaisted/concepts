@@ -34,8 +34,8 @@ function Articles() {
                   <CardMedia
                     className="media"
                     component="img"
-                    image="https://images.unsplash.com/photo-1564865878688-9a244444042a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
-                    title=""
+                    image="https://miro.medium.com/max/1400/0*iiPjT1W7w1tG3b72"
+                    title="Light bulb on sticky note"
                   />
                   <CardContent className="content">
                     <Typography
