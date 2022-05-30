@@ -9,7 +9,6 @@ import {
   CardActions,
   Avatar,
 } from "@material-ui/core";
-import { Link } from "react-router-dom";
 import Nav from "../components/Nav";
 
 function Algorithims() {
