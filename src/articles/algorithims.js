@@ -53,6 +53,8 @@ function Algorithims() {
                   >
                     Eloquent JavaScript
                   </a>
+                  <br />
+                  <sub>Coding Fundamentals - JavaScript</sub>
                 </li>
                 <li>
                   {" "}
@@ -63,6 +65,8 @@ function Algorithims() {
                   >
                     The Pragmatic Programmer
                   </a>
+                  <br />
+                  <sub>Software Engineering</sub>
                 </li>
                 <li>
                   {" "}
@@ -73,6 +77,8 @@ function Algorithims() {
                   >
                     Code
                   </a>
+                  <br />
+                  <sub>How code works with hardware</sub>
                 </li>
                 <li>
                   {" "}
@@ -83,6 +89,8 @@ function Algorithims() {
                   >
                     Algorithms
                   </a>
+                  <br />
+                  <sub>Algorithms – Computer Science</sub>
                 </li>
                 <li>
                   {" "}
@@ -93,6 +101,8 @@ function Algorithims() {
                   >
                     Clean Code
                   </a>
+                  <br />
+                  <sub>Structuring Programs</sub>
                 </li>
               </ol>
             </Typography>
