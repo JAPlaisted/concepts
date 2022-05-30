@@ -40,7 +40,7 @@ function Queries() {
               variant="h3"
               color="primary"
             >
-              My 5 Favorite Robots
+              My Top 5 Favorite Robots
             </Typography>
             <Typography className="body__text" variant="h5" color="secondary">
               <p>
