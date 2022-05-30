@@ -9,6 +9,7 @@ import {
   CardActions,
 } from "@material-ui/core";
 import Nav from "../components/Nav";
+import Susan from "../authors/susan";
 
 function Algorithims() {
   useEffect(() => {
