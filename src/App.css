@@ -51,3 +51,7 @@ p {
 li:not(:last-child) {
   margin-bottom: 5px;
 }
+
+a {
+  color: rgb(45, 45, 45);
+}
