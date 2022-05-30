@@ -11,7 +11,7 @@ import {
 } from "@material-ui/core";
 import Nav from "../components/Nav";
 
-function Loops() {
+function RandBus10() {
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
@@ -137,4 +137,4 @@ function Loops() {
   );
 }
 
-export default Loops;
+export default RandBus10;

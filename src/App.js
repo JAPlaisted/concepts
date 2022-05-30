@@ -4,7 +4,7 @@ import "./articles/loops";
 import "./components/Articles";
 import Home from "./Pages/Home";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Loops from "./articles/loops";
+import RandBus10 from "./articles/RandBus10";
 import Algorithims from "./articles/algorithims";
 import Variables from "./articles/variables";
 import Functions from "./articles/functions";
@@ -23,7 +23,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/articles/loops" element={<Loops />} />
+          <Route path="/articles/RandBus10" element={<RandBus10 />} />
           <Route path="/articles/variables" element={<Variables />} />
           <Route path="/articles/algorithims" element={<Algorithims />} />
           <Route path="/articles/functions" element={<Functions />} />
