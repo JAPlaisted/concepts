@@ -8,7 +8,7 @@ function Hero() {
       <AppBar className="appBar" color="transparent">
         <Toolbar>
           <Link to="/" rel="stylesheet" href="">
-            <Typography color="primary">CONCEPTS</Typography>
+            <Typography color="primary">TSB</Typography>
           </Link>
         </Toolbar>
       </AppBar>
