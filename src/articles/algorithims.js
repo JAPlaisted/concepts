@@ -48,6 +48,7 @@ function Algorithims() {
                   <a
                     href="https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507/ref=sr_1_1?crid=2OEPALJF1VL57&keywords=eloquent+javascript&qid=1653882131&sprefix=eloquent%2Caps%2C168&sr=8-1"
                     target="_blank"
+                    rel="noopener"
                   >
                     Eloquent JavaScript
                   </a>
@@ -57,6 +58,7 @@ function Algorithims() {
                   <a
                     href="https://www.amazon.com/Pragmatic-Programmer-Anniversary-Journey-Mastery/dp/B0833FBNHV/ref=zg_bs_4133_1/145-3515772-1087942?pd_rd_i=B0833FBNHV&psc=1"
                     target="_blank"
+                    rel="noopener"
                   >
                     The Pragmatic Programmer
                   </a>
@@ -66,6 +68,7 @@ function Algorithims() {
                   <a
                     href="https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319/ref=sr_1_1?crid=311KV0GGJ7D3Y&keywords=code+the+hidden+language+of+computer+hardware+and+software&qid=1653882301&s=audible&sprefix=code+the+hidden%2Caudible%2C126&sr=1-1"
                     target="_blank"
+                    rel="noopener"
                   >
                     Code
                   </a>
@@ -75,6 +78,7 @@ function Algorithims() {
                   <a
                     href="https://www.amazon.com/Algorithms-MIT-Press-Essential-Knowledge/dp/0262539020/ref=sr_1_1?crid=3BOX52UYMEBJC&keywords=algorithms+mit&qid=1653882410&s=audible&sprefix=algorithims+mi%2Caudible%2C151&sr=1-1-catcorr"
                     target="_blank"
+                    rel="noopener"
                   >
                     Algorithms
                   </a>
@@ -84,6 +88,7 @@ function Algorithims() {
                   <a
                     href="https://www.amazon.in/Clean-Code-Robert-C-Martin/dp/8131773388/"
                     target="_blank"
+                    rel="noopener"
                   >
                     Clean Code
                   </a>
