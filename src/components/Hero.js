@@ -9,9 +9,8 @@ function Hero() {
     <div>
       <Nav />
       <Box className="hero">
-        <Box className="title--hero">
-          <img className="logo" src={logo} alt="Synoptic logo"></img>
-        </Box>
+        <img className="logo" src={logo} alt="Synoptic logo"></img>
+        <h4>Just what you're looking for</h4>
       </Box>
     </div>
   );
