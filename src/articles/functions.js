@@ -31,8 +31,8 @@ function Functions() {
           <CardMedia
             className="media__single"
             component="img"
-            image="https://images.unsplash.com/photo-1521185496955-15097b20c5fe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80"
-            title=""
+            image="https://reactorlab.net/resources-folder/matlab/pdf-link-folder/divide_by_zero.jpg"
+            title="Lake with hole due to dividing by zero"
           />
           <CardContent className="content__single">
             <Typography
@@ -40,7 +40,7 @@ function Functions() {
               variant="h3"
               color="primary"
             >
-              Functions
+              Dividing by Zero
             </Typography>
             <Typography className="body__text" variant="h5" color="secondary">
               <p>

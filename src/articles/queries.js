@@ -31,8 +31,8 @@ function Queries() {
           <CardMedia
             className="media__single"
             component="img"
-            image="https://images.unsplash.com/photo-1550439062-609e1531270e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
-            title=""
+            image="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2017_24/2041281/170616-terminator-mn-1700.jpg"
+            title="The terminator"
           />
           <CardContent className="content__single">
             <Typography
@@ -40,7 +40,7 @@ function Queries() {
               variant="h3"
               color="primary"
             >
-              Queries
+              My 5 Favorite Robots
             </Typography>
             <Typography className="body__text" variant="h5" color="secondary">
               <p>

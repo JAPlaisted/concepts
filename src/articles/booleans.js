@@ -33,7 +33,7 @@ function Booleans() {
             className="media__single"
             component="img"
             image="https://images.unsplash.com/photo-1517148815978-75f6acaaf32c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
-            title=""
+            title="Learning to code"
           />
           <CardContent className="content__single">
             <Typography
@@ -41,7 +41,7 @@ function Booleans() {
               variant="h3"
               color="primary"
             >
-              Booleans
+              My Favorite Resources to Learn Code
             </Typography>
             <Typography className="body__text" variant="h5" color="secondary">
               <p>

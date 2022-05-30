@@ -31,8 +31,8 @@ function Pseudocode() {
           <CardMedia
             className="media__single"
             component="img"
-            image="https://images.unsplash.com/photo-1555680510-34daedadbdb1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
-            title=""
+            image="https://physicsworld.com/wp-content/uploads/2021/08/Sam-Jarman-20-August-2021.jpg"
+            title="A Black Hole"
           />
           <CardContent className="content__single">
             <Typography
@@ -40,7 +40,7 @@ function Pseudocode() {
               variant="h3"
               color="primary"
             >
-              Pseudo Code
+              An Argument for Science
             </Typography>
             <Typography className="body__text" variant="h5" color="secondary">
               <p>

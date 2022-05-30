@@ -31,8 +31,8 @@ function Typographies() {
           <CardMedia
             className="media__single"
             component="img"
-            image="https://images.unsplash.com/photo-1592424002053-21f369ad7fdb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
-            title=""
+            image="https://www.middlemarketcenter.org/Media/Expert%20Perspectives%20Images/oldbooksonawoodenshelfno_132025.jpg"
+            title="Books"
           />
           <CardContent className="content__single">
             <Typography
@@ -40,7 +40,7 @@ function Typographies() {
               variant="h3"
               color="primary"
             >
-              Typography
+              My Top 8 Business Books
             </Typography>
             <Typography className="body__text" variant="h5" color="secondary">
               <p>

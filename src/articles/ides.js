@@ -31,8 +31,8 @@ function Ides() {
           <CardMedia
             className="media__single"
             component="img"
-            image="https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80"
-            title=""
+            image="https://cdn.webshopapp.com/shops/305440/files/334089848/image.jpg"
+            title="Minecraft Pickaxe"
           />
           <CardContent className="content__single">
             <Typography
@@ -40,7 +40,7 @@ function Ides() {
               variant="h3"
               color="primary"
             >
-              IDE's
+              5 Things I Use Everyday
             </Typography>
             <Typography className="body__text" variant="h5" color="secondary">
               <p>

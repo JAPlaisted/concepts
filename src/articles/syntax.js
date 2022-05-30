@@ -31,8 +31,8 @@ function Syntax() {
           <CardMedia
             className="media__single"
             component="img"
-            image="https://images.unsplash.com/photo-1552308995-2baac1ad5490?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
-            title=""
+            image="https://www.biznews.com/wp-content/uploads/2022/04/in-a-twist-elon-musk-wants-a-reg.jpg"
+            title="Elon Musk in Ted interview"
           />
           <CardContent className="content__single">
             <Typography
@@ -40,7 +40,7 @@ function Syntax() {
               variant="h3"
               color="primary"
             >
-              Syntax
+              5 Great Elon Musk Interviews
             </Typography>
             <Typography className="body__text" variant="h5" color="secondary">
               <p>

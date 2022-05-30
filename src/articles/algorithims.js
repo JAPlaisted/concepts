@@ -31,8 +31,8 @@ function Algorithims() {
           <CardMedia
             className="media__single"
             component="img"
-            image="https://images.unsplash.com/photo-1542903660-eedba2cda473?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
-            title=""
+            image="https://www.bgosoftware.com/blog/wp-content/uploads/2016/01/Featured_programming_books.jpg"
+            title="Laptop and Books"
           />
           <CardContent className="content__single">
             <Typography
@@ -40,7 +40,7 @@ function Algorithims() {
               variant="h3"
               color="primary"
             >
-              Algorithims
+              5 Best Books to Learn Code
             </Typography>
             <Typography className="body__text" variant="h5" color="secondary">
               <p>

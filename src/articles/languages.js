@@ -31,8 +31,8 @@ function Languages() {
           <CardMedia
             className="media__single"
             component="img"
-            image="https://images.unsplash.com/photo-1619410283995-43d9134e7656?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
-            title=""
+            image="https://www.roadracingworld.com/wp-content/uploads/2021/09/2022-zero-dsr-studio-bd-profile_1631581410.jpg"
+            title="A Zero Motorcycle"
           />
           <CardContent className="content__single">
             <Typography
@@ -40,7 +40,7 @@ function Languages() {
               variant="h3"
               color="primary"
             >
-              Languages
+              6 Interesting Companies to Follow
             </Typography>
             <Typography className="body__text" variant="h5" color="secondary">
               <p>

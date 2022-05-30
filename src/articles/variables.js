@@ -31,8 +31,8 @@ function Variables() {
           <CardMedia
             className="media__single"
             component="img"
-            image="https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
-            title=""
+            image="https://www.incimages.com/uploaded_files/image/1920x1080/getty_471763092_2000133320009280382_353710.jpg"
+            title="Elon Musk"
           />
           <CardContent className="content__single">
             <Typography
@@ -40,7 +40,7 @@ function Variables() {
               variant="h3"
               color="primary"
             >
-              Variables
+              Elon Musk’s 5 Important Areas
             </Typography>
             <Typography className="body__text" variant="h5" color="secondary">
               <p>
