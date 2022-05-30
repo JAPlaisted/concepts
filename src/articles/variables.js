@@ -44,11 +44,37 @@ function Variables() {
             </Typography>
             <Typography className="body__text" variant="h5" color="secondary">
               <ol type="1">
-                <li>The Internet.</li>
-                <li>Sustainable Energy.</li>
-                <li>Space Exploration.</li>
-                <li>Artificial Intelligence.</li>
-                <li>Rewriting Human Genetics.</li>
+                <li>
+                  The Internet.
+                  <br />
+                  <sub>Instant access to communication and information.</sub>
+                </li>
+                <li>
+                  Sustainable Energy.
+                  <br />
+                  <sub>
+                    The fuel of innovation, technology, and transportation.{" "}
+                  </sub>
+                </li>
+                <li>
+                  Space Exploration.
+                  <br />
+                  <sub>
+                    Making life multi-planetary and colonizing the galaxy.
+                  </sub>
+                </li>
+                <li>
+                  Artificial Intelligence.
+                  <br />
+                  <sub>Solving problems beyond our capabilities.</sub>
+                </li>
+                <li>
+                  Rewriting Human Genetics.
+                  <br />
+                  <sub>
+                    Expanding human capabilities and eradicating disease.
+                  </sub>
+                </li>
               </ol>
             </Typography>
           </CardContent>
