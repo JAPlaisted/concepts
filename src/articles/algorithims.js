@@ -1,12 +1,10 @@
 import React, { useEffect } from "react";
 import {
   Typography,
-  Box,
   CardActionArea,
   CardMedia,
   CardContent,
   Card,
-  CardActions,
 } from "@material-ui/core";
 import Nav from "../components/Nav";
 import Susan from "../authors/susan";
