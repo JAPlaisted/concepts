@@ -10,8 +10,12 @@ function Nav() {
     <div>
       <AppBar className="appBar" color="transparent">
         <Toolbar>
-          <Link to="/" rel="stylesheet" href="">
-            <Typography color="primary">SYNOPTIC</Typography>
+          <Link
+            to="/"
+            rel="stylesheet"
+            href="https://upbeat-wiles-ffe15a.netlify.app/"
+          >
+            <Typography color="primary">HOME</Typography>
           </Link>
         </Toolbar>
       </AppBar>
