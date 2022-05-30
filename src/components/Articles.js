@@ -85,8 +85,8 @@ function Articles() {
                   <CardMedia
                     className="media"
                     component="img"
-                    image="https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
-                    title=""
+                    image="https://www.incimages.com/uploaded_files/image/1920x1080/getty_471763092_2000133320009280382_353710.jpg"
+                    title="Elon Musk"
                   />
                   <CardContent className="content">
                     <Typography
@@ -137,8 +137,8 @@ function Articles() {
                   <CardMedia
                     className="media"
                     component="img"
-                    image="https://images.unsplash.com/photo-1542903660-eedba2cda473?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
-                    title=""
+                    image="https://www.bgosoftware.com/blog/wp-content/uploads/2016/01/Featured_programming_books.jpg"
+                    title="Laptop and Books"
                   />
                   <CardContent className="content">
                     <Typography
@@ -189,8 +189,8 @@ function Articles() {
                   <CardMedia
                     className="media"
                     component="img"
-                    image="https://images.unsplash.com/photo-1521185496955-15097b20c5fe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80"
-                    title=""
+                    image="https://reactorlab.net/resources-folder/matlab/pdf-link-folder/divide_by_zero.jpg"
+                    title="Lake with hole due to dividing by zero"
                   />
                   <CardContent className="content">
                     <Typography
@@ -241,8 +241,8 @@ function Articles() {
                   <CardMedia
                     className="media"
                     component="img"
-                    image="https://images.unsplash.com/photo-1550439062-609e1531270e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
-                    title=""
+                    image="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2017_24/2041281/170616-terminator-mn-1700.jpg"
+                    title="The terminator"
                   />
                   <CardContent className="content">
                     <Typography
@@ -292,8 +292,8 @@ function Articles() {
                   <CardMedia
                     className="media"
                     component="img"
-                    image="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
-                    title=""
+                    image="https://miro.medium.com/max/1123/1*6C702o6cpNyLm27WLdZyjg.png"
+                    title="Developer portfolio"
                   />
                   <CardContent className="content">
                     <Typography
@@ -343,8 +343,8 @@ function Articles() {
                   <CardMedia
                     className="media"
                     component="img"
-                    image="https://images.unsplash.com/photo-1552308995-2baac1ad5490?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
-                    title=""
+                    image="https://www.biznews.com/wp-content/uploads/2022/04/in-a-twist-elon-musk-wants-a-reg.jpg"
+                    title="Elon Musk in Ted interview"
                   />
                   <CardContent className="content">
                     <Typography
@@ -394,8 +394,8 @@ function Articles() {
                   <CardMedia
                     className="media"
                     component="img"
-                    image="https://images.unsplash.com/photo-1555680510-34daedadbdb1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
-                    title=""
+                    image="https://physicsworld.com/wp-content/uploads/2021/08/Sam-Jarman-20-August-2021.jpg"
+                    title="A Black Hole"
                   />
                   <CardContent className="content">
                     <Typography
@@ -445,8 +445,8 @@ function Articles() {
                   <CardMedia
                     className="media"
                     component="img"
-                    image="https://images.unsplash.com/photo-1619410283995-43d9134e7656?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
-                    title=""
+                    image="https://www.roadracingworld.com/wp-content/uploads/2021/09/2022-zero-dsr-studio-bd-profile_1631581410.jpg"
+                    title="A Zero Motorcycle"
                   />
                   <CardContent className="content">
                     <Typography
@@ -497,8 +497,8 @@ function Articles() {
                   <CardMedia
                     className="media"
                     component="img"
-                    image="https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80"
-                    title=""
+                    image="https://cdn.webshopapp.com/shops/305440/files/334089848/image.jpg"
+                    title="Minecraft Pickaxe"
                   />
                   <CardContent className="content">
                     <Typography
@@ -549,8 +549,8 @@ function Articles() {
                   <CardMedia
                     className="media"
                     component="img"
-                    image="https://images.unsplash.com/photo-1592424002053-21f369ad7fdb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
-                    title=""
+                    image="https://www.middlemarketcenter.org/Media/Expert%20Perspectives%20Images/oldbooksonawoodenshelfno_132025.jpg"
+                    title="Books"
                   />
                   <CardContent className="content">
                     <Typography
@@ -602,7 +602,7 @@ function Articles() {
                     className="media"
                     component="img"
                     image="https://images.unsplash.com/photo-1517148815978-75f6acaaf32c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
-                    title=""
+                    title="Learning to code"
                   />
                   <CardContent className="content">
                     <Typography
