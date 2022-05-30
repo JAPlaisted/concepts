@@ -11,7 +11,7 @@ function Nav() {
       <AppBar className="appBar" color="transparent">
         <Toolbar>
           <Link to="/" rel="stylesheet" href="">
-            <Typography color="primary">TSB</Typography>
+            <Typography color="primary">SYNOPTIC</Typography>
           </Link>
         </Toolbar>
       </AppBar>
