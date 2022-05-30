@@ -28,7 +28,7 @@ function Articles() {
         </Typography>
         <Grid container spacing={3}>
           <Grid item xs={12} sm={6} md={4}>
-            <Link to="./articles/loops">
+            <Link to="./articles/randbus10">
               <Card className="card">
                 <CardActionArea>
                   <CardMedia
