@@ -3,7 +3,7 @@
 .hero > img {
   height: 20vh;
   width: 20vh;
-  margin-top: 7rem;
+  margin-top: 12rem;
   margin-bottom: 6rem;
   border-radius: 100%;
 }
@@ -26,6 +26,5 @@
   display: block;
   justify-content: center;
   align-items: center;
-  margin: auto;
   width: 100%;
 }
