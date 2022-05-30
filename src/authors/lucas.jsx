@@ -6,7 +6,7 @@ import {
     Avatar,
   } from "@material-ui/core";
 
-function Susan() {
+function Lucas() {
     return ( 
         <CardActions className="card__actions">
         <Box className="author">
@@ -32,4 +32,4 @@ function Susan() {
      );
 }
 
-export default Susan;
+export default Lucas;
