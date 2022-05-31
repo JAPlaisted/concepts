@@ -36,6 +36,7 @@ function DevPortfolios7() {
             </Typography>
             <Typography className="body__text" variant="h5" color="secondary">
               <ul>
+                <h4>(A Clickable List)</h4>
                 <li>
                   <a href="https://lynnandtonic.com/">
                     <h4>Lynn Fisher</h4>

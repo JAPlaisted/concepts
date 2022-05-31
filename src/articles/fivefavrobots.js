@@ -38,6 +38,8 @@ function FiveFavRobots() {
               <ul>
                 <li>
                   <img
+                    height="150vh"
+                    width="300vh"
                     src="https://assets.3dtotal.com/the-matrix-sentinel-scene-b-01.mezxr2.expanded.3b7.jpg"
                     alt="Sentinels"
                   ></img>
@@ -52,6 +54,8 @@ function FiveFavRobots() {
                 </li>
                 <li>
                   <img
+                    height="150vh"
+                    width="300vh"
                     src="https://static.wikia.nocookie.net/starwars/images/1/16/BD-1_JFO.png/revision/latest?cb=20190610025750"
                     alt="BD-1"
                   ></img>
@@ -66,6 +70,8 @@ function FiveFavRobots() {
                 </li>
                 <li>
                   <img
+                    height="150vh"
+                    width="300vh"
                     src="https://www.denofgeek.com/wp-content/uploads/2019/10/header_main_image_2.jpg?resize=768%2C432"
                     alt="The Terminator"
                   ></img>
@@ -81,6 +87,8 @@ function FiveFavRobots() {
                 </li>
                 <li>
                   <img
+                    height="150vh"
+                    width="300vh"
                     src="https://oyster.ignimgs.com/mediawiki/apis.ign.com/ratchet-and-clank-rift-apart/d/d9/03_Clank.png"
                     alt="Clank"
                   ></img>
@@ -94,6 +102,8 @@ function FiveFavRobots() {
                 </li>
                 <li>
                   <img
+                    height="150vh"
+                    width="300vh"
                     src="https://i.pinimg.com/564x/60/0a/7f/600a7f69b7ec159c8546b9a30cafe1a2.jpg"
                     alt="Dum-E"
                   ></img>
