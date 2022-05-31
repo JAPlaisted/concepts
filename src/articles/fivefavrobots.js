@@ -37,84 +37,73 @@ function FiveFavRobots() {
             <Typography className="body__text" variant="h5" color="secondary">
               <ul>
                 <li>
-                  <article>
-                    <img
-                      href="https://assets.3dtotal.com/the-matrix-sentinel-scene-b-01.mezxr2.expanded.3b7.jpg"
-                      alt="Sentinels"
-                    ></img>
-                    <p>
-                      <b>Sentinels</b>
-                      <br />
-                      <br />
-                      With one mission, search and destroy, these killer robots
-                      from The Matrix are definitely top five for me. <br />{" "}
-                      They are just trying to do their job!
-                    </p>
-                  </article>
+                  <img
+                    href="https://assets.3dtotal.com/the-matrix-sentinel-scene-b-01.mezxr2.expanded.3b7.jpg"
+                    alt="Sentinels"
+                  ></img>
+                  <p>
+                    <b>Sentinels</b>
+                    <br />
+                    <br />
+                    With one mission, search and destroy, these killer robots
+                    from The Matrix are definitely top five for me. <br /> They
+                    are just trying to do their job!
+                  </p>
                 </li>
                 <li>
-                  <article>
-                    <img
-                      href="https://static.wikia.nocookie.net/starwars/images/1/16/BD-1_JFO.png/revision/latest?cb=20190610025750"
-                      alt="BD-1"
-                    ></img>
-                    <p>
-                      <b>BD-1</b>
-                      <br />
-                      <br />
-                      Of all robots in Star Wars, none has ever stolen my heart
-                      quite as fast as the Buddy Droid 1. <br /> If I could have
-                      a companion robot, it would be BD-1.
-                    </p>
-                  </article>
+                  <img
+                    href="https://static.wikia.nocookie.net/starwars/images/1/16/BD-1_JFO.png/revision/latest?cb=20190610025750"
+                    alt="BD-1"
+                  ></img>
+                  <p>
+                    <b>BD-1</b>
+                    <br />
+                    <br />
+                    Of all robots in Star Wars, none has ever stolen my heart
+                    quite as fast as the Buddy Droid 1. <br /> If I could have a
+                    companion robot, it would be BD-1.
+                  </p>
                 </li>
                 <li>
-                  <article>
-                    <img
-                      href="https://www.denofgeek.com/wp-content/uploads/2019/10/header_main_image_2.jpg?resize=768%2C432"
-                      alt="The Terminator"
-                    ></img>
-                    <p>
-                      <b>The Terminator</b>
-                      <br />
-                      <br />
-                      What was once childhood nightmare fuel has become a
-                      classic killer robot turned protector and all around
-                      favorite for many. <br /> They have outdone the movies at
-                      this point, but I am sure he will 'be back.'
-                    </p>
-                  </article>
+                  <img
+                    href="https://www.denofgeek.com/wp-content/uploads/2019/10/header_main_image_2.jpg?resize=768%2C432"
+                    alt="The Terminator"
+                  ></img>
+                  <p>
+                    <b>The Terminator</b>
+                    <br />
+                    <br />
+                    What was once childhood nightmare fuel has become a classic
+                    killer robot turned protector and all around favorite for
+                    many. <br /> They have outdone the movies at this point, but
+                    I am sure he will 'be back.'
+                  </p>
                 </li>
                 <li>
-                  <article>
-                    <img
-                      href="https://oyster.ignimgs.com/mediawiki/apis.ign.com/ratchet-and-clank-rift-apart/d/d9/03_Clank.png"
-                      alt="Clank"
-                    ></img>
-                    <p>
-                      <b>Clank</b>
-                      <br />
-                      <br />
-                      Possibly one of the most useful of the lot, Clank is an
-                      all around multi use weapon, vehicle, robot, and friend.
-                    </p>
-                  </article>
+                  <img
+                    href="https://oyster.ignimgs.com/mediawiki/apis.ign.com/ratchet-and-clank-rift-apart/d/d9/03_Clank.png"
+                    alt="Clank"
+                  ></img>
+                  <p>
+                    <b>Clank</b>
+                    <br />
+                    <br />
+                    Possibly one of the most useful of the lot, Clank is an all
+                    around multi use weapon, vehicle, robot, and friend.
+                  </p>
                 </li>
                 <li>
-                  <article>
-                    <img
-                      href="https://i.pinimg.com/564x/60/0a/7f/600a7f69b7ec159c8546b9a30cafe1a2.jpg"
-                      alt="Dum-E"
-                    ></img>
-                    <p>
-                      <b>Dum-E</b>
-                      <br />
-                      <br />
-                      My personal favorite robot of all time, Dum-E, the
-                      ultimate workshop robot. <br /> It is my dream to build
-                      this bot.
-                    </p>
-                  </article>
+                  <img
+                    href="https://i.pinimg.com/564x/60/0a/7f/600a7f69b7ec159c8546b9a30cafe1a2.jpg"
+                    alt="Dum-E"
+                  ></img>
+                  <p>
+                    <b>Dum-E</b>
+                    <br />
+                    <br />
+                    My personal favorite robot of all time, Dum-E, the ultimate
+                    workshop robot. <br /> It is my dream to build this bot.
+                  </p>
                 </li>
               </ul>
             </Typography>
