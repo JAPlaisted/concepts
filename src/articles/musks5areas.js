@@ -11,7 +11,7 @@ import {
 } from "@material-ui/core";
 import Nav from "../components/Nav";
 
-function Variables() {
+function Musks5Areas() {
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
@@ -97,4 +97,4 @@ function Variables() {
   );
 }
 
-export default Variables;
+export default Musks5Areas;

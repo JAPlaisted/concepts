@@ -5,7 +5,7 @@ import Home from "./Pages/Home";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import RandBus10 from "./articles/randbus10";
 import Algorithims from "./articles/algorithims";
-import Variables from "./articles/variables";
+import Musks5Areas from "./articles/musks5areas";
 import Functions from "./articles/functions";
 import Queries from "./articles/queries";
 import Expressions from "./articles/expressions";
@@ -23,7 +23,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/articles/randbus10" element={<RandBus10 />} />
-          <Route path="/articles/variables" element={<Variables />} />
+          <Route path="/articles/musks5areas" element={<Musks5Areas />} />
           <Route path="/articles/algorithims" element={<Algorithims />} />
           <Route path="/articles/functions" element={<Functions />} />
           <Route path="/articles/queries" element={<Queries />} />
