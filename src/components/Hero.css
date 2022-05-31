@@ -10,7 +10,7 @@
 
 
 .hero > h4 {
-  -webkit-text-fill-color: transparent;
+  color: rgb(58, 58, 58);
   margin-bottom: 6rem;
 }
 
