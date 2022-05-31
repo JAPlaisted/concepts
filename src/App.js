@@ -4,17 +4,17 @@ import "./components/Articles";
 import Home from "./Pages/Home";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import RandBus10 from "./articles/randbus10";
-import Algorithims from "./articles/algorithims";
+import BestCodeBooks from "./articles/bestcodebooks";
 import Musks5Areas from "./articles/musks5areas";
-import Functions from "./articles/functions";
-import Queries from "./articles/queries";
-import Expressions from "./articles/expressions";
-import Syntax from "./articles/syntax";
-import PseudoCode from "./articles/pseudocode";
-import Languages from "./articles/languages";
-import IDES from "./articles/ides";
-import Typography from "./articles/typography";
-import Booleans from "./articles/booleans";
+import DividingBy0 from "./articles/dividingby0";
+import FiveFavRobots from "./articles/fivefavrobots";
+import DevPortfolios7 from "./articles/devportfolios7";
+import MuskInterviews5 from "./articles/muskinterviews5";
+import ScienceArgument from "./articles/science-argument";
+import InterestingCompanies6 from "./articles/interestingcompanies6";
+import EverydayThings5 from "./articles/everydaythings5";
+import TopBusBooks from "./articles/topbusbooks";
+import FavCodeResources from "./articles/favcoderesources";
 
 function App() {
   return (
@@ -24,16 +24,31 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/articles/randbus10" element={<RandBus10 />} />
           <Route path="/articles/musks5areas" element={<Musks5Areas />} />
-          <Route path="/articles/algorithims" element={<Algorithims />} />
-          <Route path="/articles/functions" element={<Functions />} />
-          <Route path="/articles/queries" element={<Queries />} />
-          <Route path="/articles/Expressions" element={<Expressions />} />
-          <Route path="/articles/syntax" element={<Syntax />} />
-          <Route path="/articles/pseudoCode" element={<PseudoCode />} />
-          <Route path="/articles/languages" element={<Languages />} />
-          <Route path="/articles/iDES" element={<IDES />} />
-          <Route path="/articles/typography" element={<Typography />} />
-          <Route path="/articles/booleans" element={<Booleans />} />
+          <Route path="/articles/bestcodebooks" element={<BestCodeBooks />} />
+          <Route path="/articles/dividingby0" element={<DividingBy0 />} />
+          <Route path="/articles/fivefavrobots" element={<FiveFavRobots />} />
+          <Route path="/articles/devportfolios7" element={<DevPortfolios7 />} />
+          <Route
+            path="/articles/muskinterviews5"
+            element={<MuskInterviews5 />}
+          />
+          <Route
+            path="/articles/science-argument"
+            element={<ScienceArgument />}
+          />
+          <Route
+            path="/articles/interestingcompanies6"
+            element={<InterestingCompanies6 />}
+          />
+          <Route
+            path="/articles/everydaythings5"
+            element={<EverydayThings5 />}
+          />
+          <Route path="/articles/topbusbooks" element={<TopBusBooks />} />
+          <Route
+            path="/articles/favcoderesources"
+            element={<FavCodeResources />}
+          />
         </Routes>
       </BrowserRouter>
     </div>
