@@ -41,7 +41,7 @@ function DevPortfolios7() {
                     <h4>Lynn Fisher</h4>
                     <img
                       height="150vh"
-                      width="150vh"
+                      width="300vh"
                       src="https://alvarotrigo.com/blog/assets/imgs/2021-10-16/lynn-fisher-web-developer-portfolio-example.webp"
                       alt="portfolio"
                     ></img>
@@ -52,7 +52,7 @@ function DevPortfolios7() {
                     <h4>Matthew Williams</h4>
                     <img
                       height="150vh"
-                      width="150vh"
+                      width="300vh"
                       src="https://alvarotrigo.com/blog/assets/imgs/2021-10-16/matthew-williams-web-developer-portfolio.webp"
                       alt="portfolio"
                     ></img>
@@ -63,7 +63,7 @@ function DevPortfolios7() {
                     <h4>Jonathan Plaisted</h4>
                     <img
                       height="150vh"
-                      width="150vh"
+                      width="300vh"
                       src="https://user-images.githubusercontent.com/55415399/163905022-44cf83c9-942c-4753-ae7e-79742417c921.PNG"
                       alt="portfolio"
                     ></img>
@@ -74,7 +74,7 @@ function DevPortfolios7() {
                     <h4>Matt Farley</h4>
                     <img
                       height="150vh"
-                      width="150vh"
+                      width="300vh"
                       src="https://cdn-media-1.freecodecamp.org/images/1*FNvXAOU_leQ7E2Bjuc8gqw.png"
                       alt="portfolio"
                     ></img>
@@ -85,7 +85,7 @@ function DevPortfolios7() {
                     <h4>Adham Dannaway</h4>
                     <img
                       height="150vh"
-                      width="150vh"
+                      width="300vh"
                       src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618299482987/s7c24s_NN.png?auto=compress,format&format=webp"
                       alt="portfolio"
                     ></img>
@@ -96,7 +96,7 @@ function DevPortfolios7() {
                     <h4>Sean Halpin</h4>
                     <img
                       height="150vh"
-                      width="150vh"
+                      width="300vh"
                       src="https://miro.medium.com/max/1400/0*HmDsRf97mn1Sasi_.png"
                       alt="portfolio"
                     ></img>
@@ -107,7 +107,7 @@ function DevPortfolios7() {
                     <h4>Taylor Ho</h4>
                     <img
                       height="150vh"
-                      width="150vh"
+                      width="300vh"
                       src="https://lh4.googleusercontent.com/cbXcGHgNAq5bzA4-CKi7GUdX3nw6XB7M-NNrPCqHyMJzVos1rguu2Gg2TZ4ZNL37Y0Yj6TlDga9C8vxxtmUGSUPuiySK4pI0vpWsbIKzfnUMfoWw3P4BcFssLgHzUMWLia-AMF_f"
                       alt="portfolio"
                     ></img>
