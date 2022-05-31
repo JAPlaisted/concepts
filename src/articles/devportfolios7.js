@@ -40,7 +40,7 @@ function DevPortfolios7() {
                   <a href="https://lynnandtonic.com/">
                     <h4>Lynn Fisher</h4>
                     <img
-                      href="https://alvarotrigo.com/blog/assets/imgs/2021-10-16/lynn-fisher-web-developer-portfolio-example.webp"
+                      src="https://alvarotrigo.com/blog/assets/imgs/2021-10-16/lynn-fisher-web-developer-portfolio-example.webp"
                       alt="portfolio"
                     ></img>
                   </a>
@@ -49,7 +49,7 @@ function DevPortfolios7() {
                   <a href="http://findmatthew.com/">
                     <h4>Matthew Williams</h4>
                     <img
-                      href="https://alvarotrigo.com/blog/assets/imgs/2021-10-16/matthew-williams-web-developer-portfolio.webp"
+                      src="https://alvarotrigo.com/blog/assets/imgs/2021-10-16/matthew-williams-web-developer-portfolio.webp"
                       alt="portfolio"
                     ></img>
                   </a>
@@ -58,7 +58,7 @@ function DevPortfolios7() {
                   <a href="https://www.jonathanplaisted.com/">
                     <h4>Jonathan Plaisted</h4>
                     <img
-                      href="https://user-images.githubusercontent.com/55415399/163905022-44cf83c9-942c-4753-ae7e-79742417c921.PNG"
+                      src="https://user-images.githubusercontent.com/55415399/163905022-44cf83c9-942c-4753-ae7e-79742417c921.PNG"
                       alt="portfolio"
                     ></img>
                   </a>
@@ -67,7 +67,7 @@ function DevPortfolios7() {
                   <a href="https://mattfarley.ca/">
                     <h4>Matt Farley</h4>
                     <img
-                      href="https://cdn-media-1.freecodecamp.org/images/1*FNvXAOU_leQ7E2Bjuc8gqw.png"
+                      src="https://cdn-media-1.freecodecamp.org/images/1*FNvXAOU_leQ7E2Bjuc8gqw.png"
                       alt="portfolio"
                     ></img>
                   </a>
@@ -76,7 +76,7 @@ function DevPortfolios7() {
                   <a href="https://www.adhamdannaway.com/">
                     <h4>Adham Dannaway</h4>
                     <img
-                      href="https://cdn.hashnode.com/res/hashnode/image/upload/v1618299482987/s7c24s_NN.png?auto=compress,format&format=webp"
+                      src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618299482987/s7c24s_NN.png?auto=compress,format&format=webp"
                       alt="portfolio"
                     ></img>
                   </a>
@@ -85,7 +85,7 @@ function DevPortfolios7() {
                   <a href="https://www.seanhalpin.design/">
                     <h4>Sean Halpin</h4>
                     <img
-                      href="https://miro.medium.com/max/1400/0*HmDsRf97mn1Sasi_.png"
+                      src="https://miro.medium.com/max/1400/0*HmDsRf97mn1Sasi_.png"
                       alt="portfolio"
                     ></img>
                   </a>
@@ -94,7 +94,7 @@ function DevPortfolios7() {
                   <a href="http://taylorkmho.com/">
                     <h4>Taylor Ho</h4>
                     <img
-                      href="https://lh4.googleusercontent.com/cbXcGHgNAq5bzA4-CKi7GUdX3nw6XB7M-NNrPCqHyMJzVos1rguu2Gg2TZ4ZNL37Y0Yj6TlDga9C8vxxtmUGSUPuiySK4pI0vpWsbIKzfnUMfoWw3P4BcFssLgHzUMWLia-AMF_f"
+                      src="https://lh4.googleusercontent.com/cbXcGHgNAq5bzA4-CKi7GUdX3nw6XB7M-NNrPCqHyMJzVos1rguu2Gg2TZ4ZNL37Y0Yj6TlDga9C8vxxtmUGSUPuiySK4pI0vpWsbIKzfnUMfoWw3P4BcFssLgHzUMWLia-AMF_f"
                       alt="portfolio"
                     ></img>
                   </a>
