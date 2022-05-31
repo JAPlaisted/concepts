@@ -11,7 +11,7 @@ import {
 } from "@material-ui/core";
 import Nav from "../components/Nav";
 
-function Queries() {
+function MuskInterviews5() {
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
@@ -23,8 +23,8 @@ function Queries() {
           <CardMedia
             className="media__single"
             component="img"
-            image="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2017_24/2041281/170616-terminator-mn-1700.jpg"
-            title="The terminator"
+            image="https://www.biznews.com/wp-content/uploads/2022/04/in-a-twist-elon-musk-wants-a-reg.jpg"
+            title="Elon Musk in Ted interview"
           />
           <CardContent className="content__single">
             <Typography
@@ -32,7 +32,7 @@ function Queries() {
               variant="h3"
               color="primary"
             >
-              My Top 5 Favorite Robots
+              5 Great Elon Musk Interviews
             </Typography>
             <Typography className="body__text" variant="h5" color="secondary">
               <p>
@@ -108,21 +108,21 @@ function Queries() {
         </CardActionArea>
         <CardActions className="card__actions">
           <Box className="author">
-            <Avatar src="https://randomuser.me/api/portraits/women/17.jpg" />
+            <Avatar src="https://randomuser.me/api/portraits/men/86.jpg" />
             <Box className="author__text">
               <Typography
                 className="body__text"
                 variant="subtitle2"
                 color="secondary"
               >
-                <p>Susan White.</p>
+                <p>Troy Young.</p>
               </Typography>
               <Typography
                 className="body__text"
                 variant="subtitle2"
                 color="secondary"
               >
-                Apr 23, 2021
+                Apr 9, 2021
               </Typography>
             </Box>
           </Box>
@@ -132,4 +132,4 @@ function Queries() {
   );
 }
 
-export default Queries;
+export default MuskInterviews5;

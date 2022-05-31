@@ -11,10 +11,11 @@ import {
 } from "@material-ui/core";
 import Nav from "../components/Nav";
 
-function Functions() {
+function FavCodeResources() {
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
+
   return (
     <div>
       <Nav />
@@ -23,8 +24,8 @@ function Functions() {
           <CardMedia
             className="media__single"
             component="img"
-            image="https://reactorlab.net/resources-folder/matlab/pdf-link-folder/divide_by_zero.jpg"
-            title="Lake with hole due to dividing by zero"
+            image="https://images.unsplash.com/photo-1517148815978-75f6acaaf32c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+            title="Learning to code"
           />
           <CardContent className="content__single">
             <Typography
@@ -32,7 +33,7 @@ function Functions() {
               variant="h3"
               color="primary"
             >
-              Dividing by Zero
+              My Favorite Resources to Learn Code
             </Typography>
             <Typography className="body__text" variant="h5" color="secondary">
               <p>
@@ -108,21 +109,21 @@ function Functions() {
         </CardActionArea>
         <CardActions className="card__actions">
           <Box className="author">
-            <Avatar src="https://randomuser.me/api/portraits/men/85.jpg" />
+            <Avatar src="https://randomuser.me/api/portraits/men/86.jpg" />
             <Box className="author__text">
               <Typography
                 className="body__text"
                 variant="subtitle2"
                 color="secondary"
               >
-                <p>Lucas John.</p>
+                <p>Troy Young.</p>
               </Typography>
               <Typography
                 className="body__text"
                 variant="subtitle2"
                 color="secondary"
               >
-                Apr 30, 2021
+                Mar 5, 2021
               </Typography>
             </Box>
           </Box>
@@ -132,4 +133,4 @@ function Functions() {
   );
 }
 
-export default Functions;
+export default FavCodeResources;

@@ -11,7 +11,7 @@ import {
 } from "@material-ui/core";
 import Nav from "../components/Nav";
 
-function Expressions() {
+function ScienceArgument() {
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
@@ -23,8 +23,8 @@ function Expressions() {
           <CardMedia
             className="media__single"
             component="img"
-            image="https://miro.medium.com/max/1123/1*6C702o6cpNyLm27WLdZyjg.png"
-            title="Developer portfolio"
+            image="https://physicsworld.com/wp-content/uploads/2021/08/Sam-Jarman-20-August-2021.jpg"
+            title="A Black Hole"
           />
           <CardContent className="content__single">
             <Typography
@@ -32,7 +32,7 @@ function Expressions() {
               variant="h3"
               color="primary"
             >
-              7 Developer Portfolios for Inspiration
+              An Argument for Science
             </Typography>
             <Typography className="body__text" variant="h5" color="secondary">
               <p>
@@ -108,21 +108,21 @@ function Expressions() {
         </CardActionArea>
         <CardActions className="card__actions">
           <Box className="author">
-            <Avatar src="https://randomuser.me/api/portraits/men/86.jpg" />
+            <Avatar src="https://randomuser.me/api/portraits/men/85.jpg" />
             <Box className="author__text">
               <Typography
                 className="body__text"
                 variant="subtitle2"
                 color="secondary"
               >
-                <p>Troy Young.</p>
+                <p>Lucas John.</p>
               </Typography>
               <Typography
                 className="body__text"
                 variant="subtitle2"
                 color="secondary"
               >
-                Apr 16, 2021
+                Apr 2, 2021
               </Typography>
             </Box>
           </Box>
@@ -132,4 +132,4 @@ function Expressions() {
   );
 }
 
-export default Expressions;
+export default ScienceArgument;

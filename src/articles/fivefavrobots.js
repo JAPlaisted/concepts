@@ -11,7 +11,7 @@ import {
 } from "@material-ui/core";
 import Nav from "../components/Nav";
 
-function Typographies() {
+function FiveFavRobots() {
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
@@ -23,8 +23,8 @@ function Typographies() {
           <CardMedia
             className="media__single"
             component="img"
-            image="https://www.middlemarketcenter.org/Media/Expert%20Perspectives%20Images/oldbooksonawoodenshelfno_132025.jpg"
-            title="Books"
+            image="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2017_24/2041281/170616-terminator-mn-1700.jpg"
+            title="The terminator"
           />
           <CardContent className="content__single">
             <Typography
@@ -32,7 +32,7 @@ function Typographies() {
               variant="h3"
               color="primary"
             >
-              My Top 8 Business Books
+              My Top 5 Favorite Robots
             </Typography>
             <Typography className="body__text" variant="h5" color="secondary">
               <p>
@@ -122,7 +122,7 @@ function Typographies() {
                 variant="subtitle2"
                 color="secondary"
               >
-                Mar 12, 2021
+                Apr 23, 2021
               </Typography>
             </Box>
           </Box>
@@ -132,4 +132,4 @@ function Typographies() {
   );
 }
 
-export default Typographies;
+export default FiveFavRobots;

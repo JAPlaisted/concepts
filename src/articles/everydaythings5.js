@@ -11,7 +11,7 @@ import {
 } from "@material-ui/core";
 import Nav from "../components/Nav";
 
-function Ides() {
+function EverydayThings5() {
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
@@ -132,4 +132,4 @@ function Ides() {
   );
 }
 
-export default Ides;
+export default EverydayThings5;

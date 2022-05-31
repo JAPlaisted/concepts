@@ -11,7 +11,7 @@ import {
 } from "@material-ui/core";
 import Nav from "../components/Nav";
 
-function Pseudocode() {
+function InterestingCompanies6() {
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
@@ -23,8 +23,8 @@ function Pseudocode() {
           <CardMedia
             className="media__single"
             component="img"
-            image="https://physicsworld.com/wp-content/uploads/2021/08/Sam-Jarman-20-August-2021.jpg"
-            title="A Black Hole"
+            image="https://www.roadracingworld.com/wp-content/uploads/2021/09/2022-zero-dsr-studio-bd-profile_1631581410.jpg"
+            title="A Zero Motorcycle"
           />
           <CardContent className="content__single">
             <Typography
@@ -32,7 +32,7 @@ function Pseudocode() {
               variant="h3"
               color="primary"
             >
-              An Argument for Science
+              6 Interesting Companies to Follow
             </Typography>
             <Typography className="body__text" variant="h5" color="secondary">
               <p>
@@ -108,21 +108,21 @@ function Pseudocode() {
         </CardActionArea>
         <CardActions className="card__actions">
           <Box className="author">
-            <Avatar src="https://randomuser.me/api/portraits/men/85.jpg" />
+            <Avatar src="https://randomuser.me/api/portraits/women/17.jpg" />
             <Box className="author__text">
               <Typography
                 className="body__text"
                 variant="subtitle2"
                 color="secondary"
               >
-                <p>Lucas John.</p>
+                <p>Susan White.</p>
               </Typography>
               <Typography
                 className="body__text"
                 variant="subtitle2"
                 color="secondary"
               >
-                Apr 2, 2021
+                Mar 26, 2021
               </Typography>
             </Box>
           </Box>
@@ -132,4 +132,4 @@ function Pseudocode() {
   );
 }
 
-export default Pseudocode;
+export default InterestingCompanies6;
