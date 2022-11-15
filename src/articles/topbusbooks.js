@@ -35,74 +35,22 @@ function TopBusBooks() {
               My Top 8 Business Books
             </Typography>
             <Typography className="body__text" variant="h5" color="secondary">
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo
-                consectetur, minima ipsam quam quis perspiciatis voluptates,
-                iste consequuntur, sed deleniti eum in dolore nostrum eaque
-                repellat hic culpa autem voluptatem ducimus eos aliquid
-                repudiandae ipsa eligendi? Veritatis, eaque quidem asperiores
-                explicabo suscipit iusto ab laboriosam, odio quam illo,
-                recusandae omnis et temporibus tempora totam odit dignissimos id
-                eius labore. Nulla ea quo numquam quas dolorum repellendus,
-                suscipit dolores. <br />
-                <br />
-                Quod libero praesentium fuga delectus maiores error aliquid
-                expedita cum dolore, consequuntur beatae doloremque consectetur
-                repellendus perferendis, excepturi optio aspernatur. Quae dolore
-                magnam aperiam exercitationem, accusamus libero repellat nostrum
-                cum officia ea dolorem a repudiandae deleniti praesentium,
-                aspernatur, iure modi id recusandae nemo! Ipsa natus nihil fuga
-                corrupti, officia impedit laborum voluptatem esse ut sed
-                eligendi id blanditiis adipisci quae eius necessitatibus magnam
-                vel excepturi. Officia nesciunt, minus velit reprehenderit
-                deserunt ipsum, itaque obcaecati, temporibus commodi vitae harum
-                porro! Reprehenderit corporis sapiente totam sunt est qui
-                quaerat unde quibusdam recusandae aperiam in quos aliquid natus
-                consequatur hic, itaque earum veniam reiciendis perspiciatis
-                dolorem beatae quas eos? <br />
-                <br />
-                Sed facere id ad deserunt in placeat dolor aliquid nulla at
-                laborum tempora voluptas repudiandae velit architecto, vero qui
-                corrupti, maiores ipsa possimus nam neque accusantium! Suscipit
-                ex, delectus necessitatibus nihil quisquam hic aut fugiat
-                corporis quibusdam soluta debitis molestiae architecto qui optio
-                expedita magnam labore officia provident iste non alias quasi
-                incidunt commodi nam. Vero animi doloremque quam repudiandae
-                aliquid vitae eaque modi aliquam molestiae. Expedita illum a
-                molestias praesentium laboriosam sint omnis commodi ut. <br />
-                <br /> Ex magni quidem saepe amet voluptatem ea accusamus odio
-                molestias sint ab tenetur necessitatibus consectetur nostrum
-                eius eos sequi voluptas, consequuntur exercitationem explicabo
-                a! Deleniti fugiat fugit est magnam eveniet beatae, quaerat nam
-                laborum ducimus ipsa alias, aperiam enim nobis ut consequatur
-                eum inventore quasi, ab voluptatum neque repudiandae provident
-                facilis aut quidem. Tempore rerum esse cum non doloremque sequi
-                minima ipsam dolorum aliquid! Ab vel incidunt quibusdam quod
-                saepe facere natus perspiciatis unde odio veritatis, suscipit,
-                harum asperiores id eum obcaecati quo commodi quos cum ad
-                repellat nulla beatae minus iusto. Voluptatibus sapiente
-                corrupti perspiciatis asperiores excepturi labore unde? Eum,
-                nihil aspernatur optio in consequatur alias necessitatibus
-                inventore tempore mollitia. A nobis vel veritatis possimus alias
-                odit nesciunt, accusantium pariatur! Molestiae quos cupiditate
-                animi nulla vel aspernatur enim nostrum optio minus quis,
-                quaerat hic, deserunt nemo adipisci. Explicabo perspiciatis eius
-                numquam dolores vitae doloribus, amet nulla recusandae corrupti
-                velit vel totam nam debitis quod tempore architecto! Vel
-                laboriosam dolorem excepturi, explicabo totam impedit minima
-                quis sint id, corrupti animi reprehenderit rem? Iusto, modi
-                reiciendis enim consequatur magnam maiores fugit magni esse
-                illum ipsa quas tenetur beatae inventore? <br />
-                <br />
-                Asperiores, voluptatibus tempora illum nostrum unde animi hic,
-                rerum atque necessitatibus, incidunt suscipit amet minima ut ad
-                ipsum libero sit! Culpa debitis repellat quaerat, sequi
-                provident, eos alias in labore totam molestiae sed voluptates
-                pariatur minus laborum dolorem asperiores atque illo autem quod
-                modi natus, praesentium doloribus quibusdam nesciunt. Qui
-                eligendi, assumenda iure consequuntur earum inventore numquam
-                aliquam suscipit sapiente ad nobis.
-              </p>
+              <h3>Zero to One by Peter Thiel</h3>
+              <a href="https://www.amazon.com/Zero-to-One-audiobook/dp/B00M284NY2/ref=sr_1_1?crid=3LBGB8A56JLMX&keywords=zero+to+one+peter+thiel&qid=1668549502&sprefix=zero+to+one%2Caps%2C194&sr=8-1">View on Amazon</a>
+              <h3>Rich Dad Poor Dad by Robert Kiyosaki</h3>
+              <a href="https://www.amazon.com/Rich-Dad-Poor-Anniversary-Middle/dp/B07QPQ8WBL/ref=sr_1_1?crid=2HWFG6TOKFPXW&keywords=rich+dad+poor+dad&qid=1668549546&s=audible&sprefix=rich+dad+poor+dad%2Caudible%2C140&sr=1-1">View on Amazon</a>
+              <h3>The Neatest Little Buide to Stock Market Investing by Jason Kelly</h3>
+              <a href="https://www.amazon.com/Neatest-Little-Guide-Market-Investing/dp/B088TWCM69/ref=sr_1_1?crid=2CUN9B6EFFNWV&keywords=the+neatest+little+guide+to+stock+market+investing&qid=1668549610&sprefix=the+neatest+%2Caps%2C156&sr=8-1">View on Amazon</a>
+              <h3>The Four by Scott Gallowar</h3>
+              <a href="https://www.amazon.com/The-Four-Scott-Galloway-audiobook/dp/B07565MYD1/ref=sr_1_1?crid=29CX236JDO5ZT&keywords=the+four&qid=1668549657&s=audible&sprefix=the+four%2Caudible%2C169&sr=1-1">View on Amazon</a>
+              <h3>Think and Grow Rich by Napolean Hill</h3>
+              <a href="https://www.amazon.com/Think-and-Grow-Rich-Napoleon-Hill-audiobook/dp/B000XJNDVQ/ref=sr_1_1?crid=1OGVLSJOZMQLQ&keywords=think+and+grow+rich&qid=1668549699&s=audible&sprefix=think+and+%2Caudible%2C165&sr=1-1">View on Amazon</a>
+              <h3>Way of the Wolf by Jordan Belfort</h3>
+              <a href="https://www.amazon.com/Way-of-Wolf-Jordan-Belfort-audiobook/dp/B0725R3G3Q/ref=sr_1_1?crid=OC3ZTGWXNY7J&keywords=way+of+the+wolf&qid=1668549758&s=audible&sprefix=way+of+the+wol%2Caudible%2C139&sr=1-1">View on Amazon</a>
+              <h3>Originals by Adam Grant</h3>
+              <a href="https://www.amazon.com/Originals-audiobook/dp/B01A7Q61LI/ref=sr_1_1?crid=1DU1TQCF7Q01M&keywords=adam+grant+originals&qid=1668549784&s=audible&sprefix=adam+grant+orig%2Caudible%2C157&sr=1-1">View on Amazon</a>
+              <h3>Blockchain Revolution by Don Tapscott</h3>
+              <a href="https://www.amazon.com/Blockchain-Revolution-audiobook/dp/B01F68480I/ref=sr_1_1?crid=ETS4I1I858S&keywords=blockchain+revolution&qid=1668549815&s=audible&sprefix=blockchain+re%2Caudible%2C171&sr=1-1">View on Amazon</a>
             </Typography>
           </CardContent>
         </CardActionArea>
