@@ -36,17 +36,17 @@ function InterestingCompanies6() {
             </Typography>
             <Typography className="body__text" variant="h5" color="secondary">
               <h3>Zero Motors</h3>
-              <a href="https://www.zeromotorcycles.com/">Electric motorcycle company</p>
+              <a href="https://www.zeromotorcycles.com/">Electric motorcycle company</a>
               <h3>Feastables</h3>
-              <a href="https://feastables.com/">Influencer based snack company</p>
+              <a href="https://feastables.com/">Influencer based snack company</a>
               <h3>HackSmith Industries</h3>
-              <a href="https://www.youtube.com/@theHacksmith">Engineering YouTube company</p>
+              <a href="https://www.youtube.com/@theHacksmith">Engineering YouTube company</a>
               <h3>Boxabl</h3>
-              <a href="https://www.boxabl.com/">Affordable tiny homes</p>
+              <a href="https://www.boxabl.com/">Affordable tiny homes</a>
               <h3>MudBots</h3>
-              <a href="https://www.mudbots.com/">Large scale concrete 3D printers</p>
+              <a href="https://www.mudbots.com/">Large scale concrete 3D printers</a>
               <h3>DALL-E</h3>
-              <a href="https://openai.com/dall-e-2/">AI image generation service</p>
+              <a href="https://openai.com/dall-e-2/">AI image generation service</a>
             </Typography>
           </CardContent>
         </CardActionArea>
