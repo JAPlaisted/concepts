@@ -36,15 +36,15 @@ function MuskInterviews5() {
             </Typography>
             <Typography className="body__text" variant="h5" color="secondary">
               <h3>Joe Rogen</h3>
-              <a href="https://themathbehindthemagic.files.wordpress.com/2014/03/divide-by-zero1.jpg"> watch here </a>
+              <a href="https://themathbehindthemagic.files.wordpress.com/2014/03/divide-by-zero1.jpg"> Elon Musk is a business magnet, investor and engineer.</a>
               <h3>Lex Fridman</h3>
-              <a href="https://www.youtube.com/watch?v=DxREm3s1scA&t=5978s"> watch here </a>
+              <a href="https://www.youtube.com/watch?v=DxREm3s1scA&t=5978s"> SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI </a>
               <h3>Full Send Podcast</h3>
-              <a href="https://www.youtube.com/watch?v=fXS_gkWAIs0"> watch here </a>
+              <a href="https://www.youtube.com/watch?v=fXS_gkWAIs0"> Aliens, Challenges Putin to UFC, and Predicts WW3 </a>
               <h3>The Babylon Bee</h3>
-              <a href="https://www.youtube.com/watch?v=jvGnw1sHh9M&t=1677s"> watch here </a>
+              <a href="https://www.youtube.com/watch?v=jvGnw1sHh9M&t=1677s"> An in-depth interview on wokeness, Elizabeth Warren, taxing the rich, the Metaverse, which superhero Elon would be, and how the left is killing comedy. </a>
               <h3>TED</h3>
-              <a href="https://www.youtube.com/watch?v=cdZZpaB2kDM"> watch here </a>
+              <a href="https://www.youtube.com/watch?v=cdZZpaB2kDM"> Bid to purchase Twitter and gets honest about the biggest regret of his career, how his brain works, the future he envisions for the world and a lot more. </a>
             </Typography>
           </CardContent>
         </CardActionArea>
