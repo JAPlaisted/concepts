@@ -36,7 +36,7 @@ function MuskInterviews5() {
             </Typography>
             <Typography className="body__text" variant="h5" color="secondary">
               <h3>Joe Rogen</h3>
-              <a href="https://themathbehindthemagic.files.wordpress.com/2014/03/divide-by-zero1.jpg"> Elon Musk is a business magnet, investor and engineer.</a>
+              <a href="https://www.youtube.com/watch?v=ycPr5-27vSI&t=1322s"> Elon Musk is a business magnet, investor and engineer.</a>
               <h3>Lex Fridman</h3>
               <a href="https://www.youtube.com/watch?v=DxREm3s1scA&t=5978s"> SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI </a>
               <h3>Full Send Podcast</h3>
