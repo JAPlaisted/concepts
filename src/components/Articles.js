@@ -189,8 +189,8 @@ function Articles() {
                   <CardMedia
                     className="media"
                     component="img"
-                    image="https://reactorlab.net/resources-folder/matlab/pdf-link-folder/divide_by_zero.jpg"
-                    title="Lake with hole due to dividing by zero"
+                    image="https://themathbehindthemagic.files.wordpress.com/2014/03/divide-by-zero1.jpg"
+                    title="City with hole due to dividing by zero"
                   />
                   <CardContent className="content">
                     <Typography
