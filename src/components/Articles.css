@@ -16,7 +16,8 @@ body {
 }
 
 p {
-  font-family: "Dank Mono", ui-monospace, monospace;
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.5em;
 }
 
 html {
@@ -80,6 +81,7 @@ a {
 
 .card__single {
   margin-top: 6rem;
+
 }
 
 .content__single > p {
@@ -94,11 +96,16 @@ a {
 
   .card__single {
     max-width: 100%;
-
     margin-top: 6rem;
   }
 
   .media__single {
     height: 40rem;
   }
+}
+
+.affiliate-link {
+  color:#1d389c;
+  font-size: 1.5rem;
+  font-weight: 900;
 }

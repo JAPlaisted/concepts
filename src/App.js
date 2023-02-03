@@ -3,7 +3,7 @@ import "./App.css";
 import "./components/Articles";
 import Home from "./Pages/Home";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import RandBus10 from "./articles/randbus10";
+import RandBus10 from "./articles/howToBuildARobotArm";
 import BestCodeBooks from "./articles/bestcodebooks";
 import Musks5Areas from "./articles/musks5areas";
 import DividingBy0 from "./articles/dividingby0";
@@ -22,11 +22,11 @@ function App() {
       <BrowserRouter forceRefresh={true}>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/articles/randbus10" element={<RandBus10 />} />
+          <Route path="/articles/howToBuildARobotArm" element={<RandBus10 />} />
           <Route path="/articles/musks5areas" element={<Musks5Areas />} />
           <Route path="/articles/bestcodebooks" element={<BestCodeBooks />} />
           <Route path="/articles/dividingby0" element={<DividingBy0 />} />
-          <Route path="/articles/fivefavrobots" element={<FiveFavRobots />} />
+          <Route path="/articles/cad-career" element={<FiveFavRobots />} />
           <Route path="/articles/devportfolios7" element={<DevPortfolios7 />} />
           <Route
             path="/articles/muskinterviews5"

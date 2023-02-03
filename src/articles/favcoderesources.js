@@ -37,8 +37,26 @@ function FavCodeResources() {
             </Typography>
             <Typography className="body__text" variant="h5" color="secondary">
               <h3>Code With Mosh</h3>
-              <p>Mosh is the only one I trust with my computer science education</p>
-              <a href="https://codewithmosh.com/">codewithmosh.com</a>
+              <p>
+                Code With Mosh is an excellent platform for learning to code and
+                developing software development skills. {<br />}
+                {<br />} The instructor, Mosh, is knowledgeable, engaging, and
+                has a great teaching style. The lessons are well-structured,
+                easy to follow, and provide a solid foundation for anyone
+                looking to build their coding skills. {<br />}
+                {<br />}The course material is comprehensive and covers a wide
+                range of topics, from the basics of programming to more advanced
+                concepts. The platform also offers excellent support, with a
+                community of fellow students and helpful resources to ensure a
+                positive learning experience. {<br />}
+                {<br />}I highly recommend Code With Mosh to anyone looking to
+                enhance their software development skills and take their coding
+                to the next level.{<br />}
+                {<br />}
+              </p>
+              <a className="affiliate-link" href="https://codewithmosh.com/">
+                codewithmosh.com
+              </a>
             </Typography>
           </CardContent>
         </CardActionArea>
