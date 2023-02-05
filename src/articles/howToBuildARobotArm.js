@@ -96,7 +96,7 @@ function RandBus10() {
                 {<br />}
                 <img
                   src="https://cdn.cadcrowd.com/3d-models/07/ca/07cab1d8-234f-4656-90c4-a15cead46fe3/gallery/cab61f13-badb-4a66-9d15-5e1c9c3f38c0/medium.jpg"
-                  alt="CAD Image"
+                  alt="CAD"
                 ></img>
                 {<br />}
                 {<br />}Exporting the Design {<br />}

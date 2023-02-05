@@ -24,7 +24,7 @@ function FiveFavRobots() {
             className="media__single"
             component="img"
             image="https://www.azom.com/images/Article_Images/ImageForArticle_1325_15761703408964314.png"
-            alt="CAD Image"
+            alt="CAD"
             title="A cad system in use"
           />
           <CardContent className="content__single">
@@ -94,7 +94,7 @@ function FiveFavRobots() {
                 {<br />}
                 <img
                   src="https://www.pdsol.com/wp-content/uploads/2019/07/3d-software-apps.jpg"
-                  alt="CAD Image"
+                  alt="CAD"
                 ></img>
                 Experience: Gaining experience in CAD design is key to becoming
                 a successful CAD designer or developer. You can gain experience
