@@ -24,6 +24,7 @@ function FiveFavRobots() {
             className="media__single"
             component="img"
             image="https://www.azom.com/images/Article_Images/ImageForArticle_1325_15761703408964314.png"
+            alt="CAD Image"
             title="A cad system in use"
           />
           <CardContent className="content__single">
@@ -91,7 +92,10 @@ function FiveFavRobots() {
                 critical thinking skills, as well as the ability to work well in
                 a team environment.{<br />}
                 {<br />}
-                <img src="https://www.pdsol.com/wp-content/uploads/2019/07/3d-software-apps.jpg"></img>
+                <img
+                  src="https://www.pdsol.com/wp-content/uploads/2019/07/3d-software-apps.jpg"
+                  alt="CAD Image"
+                ></img>
                 Experience: Gaining experience in CAD design is key to becoming
                 a successful CAD designer or developer. You can gain experience
                 by working on projects, taking on freelance work, or working as

@@ -72,7 +72,10 @@ function Musks5Areas() {
                 he also wants to reduce the world's reliance on fossil fuels and
                 create a sustainable future for the planet.{<br />}
                 {<br />}
-                <img src="https://images.newscientist.com/wp-content/uploads/2022/10/13151703/sei129088618.jpg"></img>
+                <img
+                  src="https://images.newscientist.com/wp-content/uploads/2022/10/13151703/sei129088618.jpg"
+                  alt="Elon Musk at SpaceX factory"
+                ></img>
                 Space Exploration{<br />}
                 {<br />}
                 Elon Musk is one of the pioneers of private space exploration
